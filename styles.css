@@ -196,11 +196,20 @@
   font-weight: 700;
 }
 
-.teaching-title h2 {
-  font-size: 1.5rem;
+/* Teaching page section headings (##) */
+#teaching h2 {
+  font-size: 2.3rem;
   color: #004225;
-  font-weight: 400;
-  margin-top: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+/* Course titles (###) */
+#teaching h3 {
+  font-size: 1.25rem;
+  color: #222;
+  font-weight: 600;
 }
 
 .teaching-intro {
@@ -213,6 +222,7 @@
 .teaching-intro p {
   margin-bottom: 1rem;
 }
+
 
 .contact-title h1 {
   font-size: 3rem;
