@@ -25,7 +25,7 @@
 }
 
 .home-left {
-  width: 35%;
+  width: 40%;
   text-align: center;
 }
 
@@ -36,9 +36,10 @@
 }
 
 .home-right {
-  width: 65%;
-  font-size: 0.8rem;
-  line-height: 1.5;
+  width: 60%;
+  font-size: 1.25rem;
+  line-height: 1.8;
+  max-width: 850px;
 }
 
 .home-links {
@@ -235,4 +236,12 @@
 
 .contact-content a:hover {
   text-decoration: underline;
+}
+
+/* Make content area wider */
+.quarto-container,
+.quarto-container-md,
+.container-fluid,
+.container-xxl {
+  max-width: 1500px !important;
 }
