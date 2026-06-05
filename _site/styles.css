@@ -198,18 +198,18 @@
 
 /* Teaching page section headings (##) */
 #teaching h2 {
-  font-size: 2.3rem;
+  font-size: 3rem;
   color: #004225;
   font-weight: 600;
   margin-bottom: 1rem;
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 /* Course titles (###) */
 #teaching h3 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   color: #222;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .teaching-intro {
