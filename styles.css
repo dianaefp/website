@@ -1,125 +1,77 @@
 .home-title {
   text-align: center;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 2.5rem;
 }
 
 .home-title h1 {
-  font-size: 4rem;
+  font-size: 4.6rem;
   color: #004225;
   font-weight: 700;
 }
 
-.home-title h2 {
-  font-size: 1.5rem;
+.tagline {
+  text-align: center;
+  font-size: 1.8rem;
   color: #1f6f43;
-  font-weight: 400;
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
 }
 
 .home-main {
-  display: flex;
-  gap: 3rem;
-  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 380px 760px;
+  gap: 4rem;
+  max-width: 1220px;
   margin: 0 auto;
-  align-items: flex-start;
+  align-items: start;
 }
 
 .home-left {
-  width: 40%;
   text-align: center;
 }
 
 .home-left img {
-  width: 100%;
-  max-width: 430px;
-  border-radius: 2px;
+  width: 360px;
+  border-radius: 3px;
 }
 
 .home-right {
-  width: 60%;
-  font-size: 1.25rem;
-  line-height: 1.8;
-  max-width: 850px;
-}
-
-.home-links {
-  margin-top: 1.5rem;
-  line-height: 1.9;
-}
-
-.home-links a {
-  color: #004225;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.home-links a:hover {
-  text-decoration: underline;
-}
-
-.navbar .navbar-nav .nav-link[href="./index.html"] {
-  display: none;
-}
-
-@media (max-width: 900px) {
-  .home-main {
-    flex-direction: column;
-  }
-
-  .home-left,
-  .home-right {
-    width: 130%;
-  }
-
-  .home-title h1 {
-    font-size: 2.8rem;
-  }
-}
-
-.tagline {
-  text-align: center;
-  font-size: 1.5rem;
-  color: #1f6f43;
-  margin-top: 1rem;
-  margin-bottom: 3rem;
-  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.75;
 }
 
 .social-icons {
-  margin-top:-0.5rem;
+  margin-top: 1.4rem;
   display: flex;
   justify-content: center;
-  gap: 2rem;   /* more space between icons */
+  gap: 1.6rem;
 }
 
 .social-icons a {
-  font-size: 1.5rem;
+  font-size: 1.35rem;
   text-decoration: none;
-  transition: transform 0.2s ease;
 }
 
-.social-icons a:hover {
-  transform: translateY(-3px);
-}
+@media (max-width: 900px) {
+  .home-title h1 {
+    font-size: 2.8rem;
+  }
 
-.email {
-  color: #D44638;      /* Gmail red */
-}
+  .home-main {
+    display: block;
+    padding: 0 1.5rem;
+  }
 
-.scholar {
-  color: #4285F4;      /* Google blue */
-}
+  .home-left img {
+    width: 100%;
+    max-width: 340px;
+  }
 
-.orcid {
-  color: #A6CE39;      /* ORCID green */
-}
-
-.researchgate {
-  color: #000000;      /* ResearchGate teal */
-}
-
-.linkedin {
-  color: #0A66C2;      /* LinkedIn blue */
+  .home-right {
+    margin-top: 2rem;
+    font-size: 1.05rem;
+  }
 }
 
 .research-title {
@@ -236,13 +188,5 @@
 
 .contact-content a:hover {
   text-decoration: underline;
-}
-
-/* Make content area wider */
-.quarto-container,
-.quarto-container-md,
-.container-fluid,
-.container-xxl {
-  max-width: 1600px !important;
 }
 
