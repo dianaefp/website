@@ -245,3 +245,11 @@
 .container-xxl {
   max-width: 1500px !important;
 }
+
+#quarto-margin-sidebar {
+  display: none !important;
+}
+
+#quarto-content {
+  margin-right: 0 !important;
+}
