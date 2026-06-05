@@ -256,3 +256,36 @@
 .quarto-container {
   max-width: 1600px !important;
 }
+
+/* Force homepage to one column on phones */
+@media screen and (max-width: 900px) {
+  body .home-main {
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    gap: 2rem !important;
+  }
+
+  body .home-left,
+  body .home-right {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  body .home-left img {
+    max-width: 280px !important;
+    width: 100% !important;
+  }
+
+  body .home-right {
+    font-size: 1.05rem !important;
+    line-height: 1.7 !important;
+  }
+
+  .page-columns,
+  .quarto-container {
+    max-width: 100% !important;
+  }
+}
