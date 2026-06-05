@@ -22,23 +22,23 @@ Applied Economist bridging rigorous research and policy impact
 <div class="social-icons">
 
 <a href="https://www.linkedin.com/in/dianaflores-peregrina/">
-<i class="fab fa-linkedin linkedin"></i>
+<i class="fab fa-linkedin linkedin-icon"></i>
 </a>
 
 <a href="mailto:diana.floresperegrina@gmail.com">
-<i class="fas fa-envelope email"></i>
+<i class="fas fa-envelope email-icon"></i>
 </a>
 
 <a href="https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en">
-<i class="fas fa-graduation-cap scholar"></i>
+<i class="fas fa-graduation-cap scholar-icon"></i>
 </a>
 
 <a href="https://orcid.org/0000-0002-7945-5416">
-<i class="fab fa-orcid orcid"></i>
+<i class="fab fa-orcid orcid-icon"></i>
 </a>
 
 <a href="https://www.researchgate.net/profile/Diana-Flores-Peregrina">
-<i class="fab fa-researchgate researchgate"></i>
+<i class="fab fa-researchgate researchgate-icon"></i>
 </a>
 </div>
 
