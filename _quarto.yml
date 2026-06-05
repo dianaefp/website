@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  site-url: https://www.dianafloresperegrina.com
   title: "Diana Flores-Peregrina"
+  site-url: https://www.dianafloresperegrina.com
   favicon: favicon.png
   page-footer:
     center: "© Diana Flores-Peregrina, 2026"
