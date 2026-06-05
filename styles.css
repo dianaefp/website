@@ -246,10 +246,3 @@
   max-width: 1600px !important;
 }
 
-#quarto-margin-sidebar {
-  display: none !important;
-}
-
-#quarto-content {
-  margin-right: 0 !important;
-}
