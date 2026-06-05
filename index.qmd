@@ -5,7 +5,7 @@ toc: false
 
 ::: {.home-title}
 
-# Diana Flores-Peregrina
+# Diana Flores&#8209;Peregrina
 
 ::: {.tagline}
 Applied Economist bridging rigorous research and policy impact
