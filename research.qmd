@@ -1,0 +1,144 @@
+---
+page-layout: full
+---
+
+::: {.research-title}
+# Research
+:::
+
+::: {.research-intro}
+My research examines how incentives, resources, and policy environments shape human behavior and economic outcomes, with a focus on generating evidence to inform effective social policy.
+
+::: {.award}
+🏆 **Best Article Award, Economic History of Developing Regions (2026)**
+:::
+:::
+
+
+::: {.research-section}
+Selected Research
+:::
+
+
+### Cumulative Effects of Early-Life Unconditional Cash Transfers on Household Expenditures: Evidence from Baby’s First Years  <span class="pub-tag">*(Forthcoming Oxford University Press)*</span>  
+
+**Question:** How do sustained, predictable cash transfers from birth affect how families allocate resources over early childhood?
+
+**Findings:** Additional income increases spending on child-focused goods, especially in early childhood. While marginal responses decline with age, total effects persist due to the accumulation of income over time. Transfers do not increase general household spending, indicating targeted investment in children.
+
+**Why it matters:** When and how income is delivered is central to policy effectiveness. This paper introduces a framework that distinguishes behavioral responses from cumulative resource effects, with implications for the design of child benefits and income support policies.
+
+---
+
+### Growing Taller, Growing Heavier: The Effects of Progresa on Adolescent Health in Urban Mexico <span class="pub-tag">[*(Job Market Paper)*](https://dianaefp.github.io/dianafpweb/JMP_FloresPeregrina.pdf)</span>  
+
+
+**Question:** Can conditional cash transfers improve adolescent health in urban settings?
+
+**Findings:** Exploiting variation in Progresa's rollout across urban localities, I find that additional exposure before age fourteen increases height and weight, particularly among boys and low-income children. However, the program also raises BMI and the prevalence of overweight and obesity, especially among girls and children from disadvantaged households.
+
+**Why it matters:** The results show that cash transfers can promote human capital beyond early childhood, but also highlights important trade-offs in urban environments where poverty coexists with increasingly unhealthy food environments.
+
+---
+
+### The Impact of Unconditional Cash on Parenting Behaviors among 4-Year-Old Children from Families with Low Income in the U.S. <span class="pub-tag">[*(Working Paper)*](https://dianaefp.github.io/dianafpweb/BFYParentingBehaviors.pdf)</span> 
+
+**Question:** How does unconditional income affect parenting behaviors?
+
+**Findings:** Additional income changes how parents allocate time and attention, indicating that financial resources shape caregiving behavior.
+
+**Why it matters:** Income support affects parental behavior—a key mechanism linking economic policy to child development.
+
+::: {.research-section}
+Other Publications
+:::
+
+### Colonial Agricultural Estates and Rural Development in Twentieth-Century Mexico  <span class="pub-tag">[*(Published)*](https://doi.org/10.1080/20780389.2023.2260953)</span>  
+
+🏆 **Awarded Best Biennial Article 2024–25, Economic History of Developing Regions**
+
+**Question:** How do colonial land institutions shape long-term economic development and regional inequality?
+
+**Findings:** Areas near large colonial estates exhibit higher long-term welfare, driven by persistent agglomeration and local economic activity.
+
+**Why it matters:** Historical economic structures can create lasting development advantages, offering a new channel linking inequality to modern outcomes.
+
+---
+
+### Urban Poverty and Nutrition Challenges: A Global Systematic Literature Review <span class="pub-tag">[*(Published)*](https://doi.org/10.1186/s12939-020-01330-0)</span>  
+
+**Question:** What limits access to healthy diets in urban settings?
+
+**Findings:** Affordability, access, and urban food environments constrain nutrition among low-income populations.
+
+**Why it matters:** Improving urban nutrition requires addressing structural barriers, not just individual behavior.
+
+---
+
+### A Longitudinal Study of Height Gaps among Mexican Children <span class="pub-tag">[*(Published)*](https://doi.org/10.1016/j.socscimed.2020.113388)</span>  
+
+**Question:** How do socioeconomic disparities affect child growth?
+
+**Findings:** Persistent height gaps reflect deep inequalities in early-life conditions.
+
+**Why it matters:** Early-life disparities have long-term consequences, making early interventions critical.
+
+---
+
+### Breastfeeding Training for Healthcare Providers in Mexico <span class="pub-tag">[*(Published)*](https://doi.org/10.1186/s13006-020-00297-6)</span>  
+
+**Question:** Can semi-virtual training improve provider knowledge?
+
+**Findings:** Training significantly improves breastfeeding knowledge among healthcare providers.
+
+**Why it matters:** Scalable training can strengthen maternal and child health systems.
+
+---
+
+### Costs of Maternity Leave to Support Breastfeeding: Brazil, Ghana, and Mexico <span class="pub-tag">[*(Published)*](http://dx.doi.org/10.2471/BLT.19.229898)</span>  
+
+**Question:** What are the costs of maternity leave policies?
+
+**Findings:** Costs vary across countries but remain substantial and policy-relevant.
+
+**Why it matters:** Cost estimates are essential for designing feasible maternal health policies.
+
+---
+
+### Food Insecurity in Mexico: Context and Policy Implications <span class="pub-tag">[*(Published)*](https://doi.org/10.1017/S1368980019003082)</span>  
+
+**Question:** How do contextual factors shape food insecurity?
+
+**Findings:** Regional and structural factors strongly influence food insecurity.
+
+**Why it matters:** Effective policy must be tailored to local contexts.
+
+---
+
+### Maternity Leave Cash Transfers for Informal Workers in Mexico <span class="pub-tag">[*(Published)*](https://doi.org/10.1177/0379572119836582)</span>  
+
+**Question:** What would it cost to support informal workers?
+
+**Findings:** Cash transfers are feasible under certain policy designs, even in high-informality settings.
+
+**Why it matters:** Expanding social protection to informal workers is key for equity.
+
+---
+
+### Productivity and Human Capital in Mexican States <span class="pub-tag">[*(Published)*](http://www.scielo.org.mx/pdf/ete/v81n324/2448-718X-ete-81-324-00909.pdf)</span>  
+
+**Question:** How do productivity and human capital interact?
+
+**Findings:** They act as complementary drivers of regional competitiveness.
+
+**Why it matters:** Sustained growth requires investment in both.
+
+---
+
+### Regional Competitiveness in the Mexican Bajío <span class="pub-tag">[*(Published)*](https://doi.org/10.36677/paradigmaeconomico.v11i2.13075)</span>  
+
+**Question:** Is the region economically homogeneous?
+
+**Findings:** There is substantial heterogeneity in specialization and performance.
+
+**Why it matters:** Regional policy must reflect local variation.

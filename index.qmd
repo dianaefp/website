@@ -1,0 +1,63 @@
+---
+page-layout: full
+---
+
+::: {.home-title}
+
+# Diana Flores-Peregrina
+
+::: {.tagline}
+Applied Economist bridging rigorous research and policy impact
+:::
+
+:::
+
+::: {.home-main}
+
+::: {.home-left}
+![](images/headshot.jpg)
+
+::: {.home-links}
+<div class="social-icons">
+
+<a href="https://www.linkedin.com/in/dianaflores-peregrina/">
+<i class="fab fa-linkedin linkedin"></i>
+</a>
+
+<a href="mailto:diana.floresperegrina@gmail.com">
+<i class="fas fa-envelope email"></i>
+</a>
+
+<a href="https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en">
+<i class="fas fa-graduation-cap scholar"></i>
+</a>
+
+<a href="https://orcid.org/0000-0002-7945-5416">
+<i class="fab fa-orcid orcid"></i>
+</a>
+
+<a href="https://www.researchgate.net/profile/Diana-Flores-Peregrina">
+<i class="fab fa-researchgate researchgate"></i>
+</a>
+</div>
+
+:::
+:::
+
+::: {.home-right}
+
+I am an applied economist specializing in the intersection of health, development, and public policy. I study how income, policy design, and institutional contexts shape human development and economic behavior, particularly among low-income populations.
+
+My work uses rigorous causal inference methods to address real-world policy questions. I examine the impacts of large-scale social programs and behavioral responses to economic interventions, with the goal of informing policy design and implementation. I have extensive experience working with experimental and quasi-experimental data, as well as large administrative and survey datasets, and translating empirical findings into insights relevant for high-stakes policy decisions.
+
+I received my Ph.D. in Economics from the University of California, Los Angeles in 2024, and completed a postdoctoral fellowship at Duke University in 2026.
+
+My work sits at the intersection of rigorous research and real-world policy impact.
+
+---
+
+**Research Areas:** Health · Development · Policy Evaluation · Causal Inference
+
+:::
+
+:::

@@ -1,0 +1,50 @@
+---
+page-layout: full
+---
+
+::: {.teaching-title}
+
+# Teaching
+
+:::
+
+::: {.teaching-intro}
+
+My teaching experience spans undergraduate and graduate courses in economics, econometrics, and quantitative methods. I have served as both an instructor and teaching assistant at UCLA, CIDE, and Universidad Iberoamericana.
+
+:::
+
+
+## Instructor
+
+### Microeconomic Theory I (Econ 11)
+*University of California, Los Angeles (UCLA)*  
+Summer 2022
+
+
+
+## Teaching Assistant
+
+### Microeconomic Theory I (Econ 11)
+*University of California, Los Angeles (UCLA)*  
+Fall 2020–2024
+
+### Microeconomics for Public Affairs (PA 40)
+*University of California, Los Angeles (UCLA)*  
+Winter & Spring 2022–2023
+
+### Microeconomic Theory II (Graduate)
+*Centro de Investigación y Docencia Económicas (CIDE), Mexico*  
+Spring 2018
+
+### Applied Econometrics (Graduate)
+*Centro de Investigación y Docencia Económicas (CIDE), Mexico*  
+Fall 2017
+
+### Biostatistics (Graduate)
+*Universidad Iberoamericana, Mexico*  
+2016–2017
+
+### Intermediate Microeconomics
+*Centro de Investigación y Docencia Económicas (CIDE), Mexico*  
+2013
