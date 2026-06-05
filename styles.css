@@ -197,7 +197,7 @@
 }
 
 .teaching-title h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #004225;
   font-weight: 400;
   margin-top: 2rem;
@@ -292,6 +292,8 @@
 
 /* Student comments slider */
 
+/* Student comments slider */
+
 .testimonial-slider {
   display: flex;
   overflow-x: auto;
@@ -307,16 +309,27 @@
   background-color: #f7f7f7;
   border-left: 4px solid #004225;
   padding: 1.5rem;
-  font-size: 1.05rem;
-  line-height: 1.6;
   border-radius: 6px;
   color: #222;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  text-align: center;
+  line-height: 1.7;
 }
 
+.testimonial p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.testimonial-term {
+  font-style: italic;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+/* Mobile */
 @media (max-width: 900px) {
   .testimonial {
     flex: 0 0 85%;
-    font-size: 1rem;
   }
 }
