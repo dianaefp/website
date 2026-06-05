@@ -1,0 +1,238 @@
+.home-title {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.home-title h1 {
+  font-size: 4rem;
+  color: #004225;
+  font-weight: 700;
+}
+
+.home-title h2 {
+  font-size: 1.5rem;
+  color: #1f6f43;
+  font-weight: 400;
+}
+
+.home-main {
+  display: flex;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: flex-start;
+}
+
+.home-left {
+  width: 35%;
+  text-align: center;
+}
+
+.home-left img {
+  width: 100%;
+  max-width: 430px;
+  border-radius: 2px;
+}
+
+.home-right {
+  width: 65%;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.home-links {
+  margin-top: 1.5rem;
+  line-height: 1.9;
+}
+
+.home-links a {
+  color: #004225;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.home-links a:hover {
+  text-decoration: underline;
+}
+
+.navbar .navbar-nav .nav-link[href="./index.html"] {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .home-main {
+    flex-direction: column;
+  }
+
+  .home-left,
+  .home-right {
+    width: 130%;
+  }
+
+  .home-title h1 {
+    font-size: 2.8rem;
+  }
+}
+
+.tagline {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #1f6f43;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  font-weight: 400;
+}
+
+.social-icons {
+  margin-top:-0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;   /* more space between icons */
+}
+
+.social-icons a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+}
+
+.social-icons a:hover {
+  transform: translateY(-3px);
+}
+
+.email {
+  color: #D44638;      /* Gmail red */
+}
+
+.scholar {
+  color: #4285F4;      /* Google blue */
+}
+
+.orcid {
+  color: #A6CE39;      /* ORCID green */
+}
+
+.researchgate {
+  color: #000000;      /* ResearchGate teal */
+}
+
+.linkedin {
+  color: #0A66C2;      /* LinkedIn blue */
+}
+
+.research-title {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.research-title h1 {
+  font-size: 3.5rem;
+  color: #004225;
+  font-weight: 700;
+}
+
+.research-title h2 {
+  font-size: 3rem;
+  color: #004225;
+  font-weight: 400;
+}
+
+.research-intro {
+  color: black;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  max-width: 900px;
+  margin-bottom: 2.5rem;
+}
+
+.research-intro p {
+  margin-bottom: 1rem;
+}
+
+.research-section {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #004225;
+  border-bottom: 1px solid #004225;
+  padding-bottom: -0.4rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.pub-tag {
+  font-size: 0.6em;
+  font-weight: 400;
+}
+
+.award {
+  text-align: center;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+.teaching-title {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.teaching-title h1 {
+  font-size: 3.5rem;
+  color: #004225;
+  font-weight: 700;
+}
+
+.teaching-title h2 {
+  font-size: 3rem;
+  color: #004225;
+  font-weight: 400;
+  margin-top: 2rem;
+}
+
+.teaching-intro {
+  max-width: 900px;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  margin-bottom: 3rem;
+}
+
+.teaching-intro p {
+  margin-bottom: 1rem;
+}
+
+.contact-title h1 {
+  font-size: 3rem;
+  color: #000000;
+  font-weight: 700;
+}
+
+.contact-content {
+  max-width: 800px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.contact-title h1 {
+  font-size: 3rem;
+  color: #000000;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.contact-content {
+  max-width: 800px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.contact-content a {
+  color: #004225;
+  text-decoration: none;
+}
+
+.contact-content a:hover {
+  text-decoration: underline;
+}
