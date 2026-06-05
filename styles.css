@@ -25,10 +25,10 @@
 
 .home-main {
   display: grid;
-  grid-template-columns: 350px 800px;
+  grid-template-columns: 450px 900px;
   gap: 4rem;
-  width: 95%;
-  max-width: 1350px;
+  width: 100%;
+  max-width: 1600px;
   margin: 0 auto;
   align-items: start;
 }
@@ -39,14 +39,14 @@
 
 .home-left img {
   width: 100%;
-  max-width: 330px;
+  max-width: 450px;
   border-radius: 3px;
 }
 
 .home-right {
   font-size: 1.2rem;
   line-height: 1.75;
-  max-width: 800px;
+  max-width: 900px;
 }
 
 /* Social icons */

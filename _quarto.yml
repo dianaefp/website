@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  site-url: http://www.dianafloresperegrina.com
   title: "Diana Flores-Peregrina"
   favicon: favicon.png
   page-footer:
