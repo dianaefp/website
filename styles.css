@@ -49,8 +49,30 @@
 }
 
 .social-icons a {
-  font-size: 1.35rem;
+  font-size: 1.5rem;
   text-decoration: none;
+  transition: transform 0.2s ease;
+  color: inherit;
+}
+
+.social-icons .email {
+  color: #D44638 !important;
+}
+
+.social-icons .scholar {
+  color: #4285F4 !important;
+}
+
+.social-icons .orcid {
+  color: #A6CE39 !important;
+}
+
+.social-icons .researchgate {
+  color: #000000 !important;
+}
+
+.social-icons .linkedin {
+  color: #0A66C2 !important;
 }
 
 @media (max-width: 900px) {
@@ -190,3 +212,20 @@
   text-decoration: underline;
 }
 
+.home-main {
+  display: grid;
+  grid-template-columns: 350px 750px;  /* ~1:2 ratio */
+  gap: 4rem;
+  max-width: 1400px;
+  width: 90%;
+  margin: 0 auto;
+  align-items: start;
+}
+
+.page-columns {
+  max-width: 1600px !important;
+}
+
+.quarto-container {
+  max-width: 1600px !important;
+}
