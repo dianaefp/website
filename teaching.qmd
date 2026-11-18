@@ -9,14 +9,25 @@ toc: true
 
 :::
 
+
 ::: {.teaching-intro}
 
-My teaching experience spans undergraduate and graduate courses in economics, econometrics, and quantitative methods. I have served as both an instructor and teaching assistant at UCLA, CIDE, and Universidad Iberoamericana.
+My teaching experience spans undergraduate and graduate courses in economics, econometrics, public policy evaluation, and quantitative methods. I have served as an instructor and teaching assistant at UCLA, CIDE, and Universidad Iberoamericana, teaching students from diverse academic and professional backgrounds.
 
 :::
 
 
+
 ## Instructor
+
+
+### Advanced Course in Public Policy Evaluation
+*Curso Avanzado en Materia de Evaluación de Políticas Públicas*
+
+*Centro de Investigación y Docencia Económicas (CIDE), Mexico*  
+Co-instructor · Fall 2026
+
+
 
 ### Microeconomic Theory I (Econ 11) <span class="pub-tag">[*(Syllabus)*](https://github.com/dianaefp/dianafpweb/blob/gh-pages/Econ_11_Syllabus_Flores_S2022.pdf)</span>  
 *University of California, Los Angeles (UCLA)*  
@@ -54,7 +65,9 @@ Fall 2016–2017.
 *Centro de Investigación y Docencia Económicas (CIDE), Mexico*  
 Spring & Fall 2013.
 
-## Anonymous Student Testimonials
+## Student Feedback
+
+*Selected anonymous comments from UCLA student course evaluations.*
 
 <div class="testimonial-slider">
 

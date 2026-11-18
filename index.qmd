@@ -1,3 +1,4 @@
+
 ---
 page-layout: full
 toc: false
@@ -8,7 +9,7 @@ toc: false
 # Diana Flores&#8209;Peregrina
 
 ::: {.tagline}
-Applied Economist bridging rigorous research and policy impact
+Applied Economist | Development, Health & Public Policy
 :::
 
 :::
@@ -23,6 +24,10 @@ Applied Economist bridging rigorous research and policy impact
 
 <a href="https://www.linkedin.com/in/dianaflores-peregrina/">
 <i class="fab fa-linkedin linkedin-icon"></i>
+</a>
+
+<a href="https://github.com/dianaefp" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+<i class="fab fa-github github-icon"></i>
 </a>
 
 <a href="mailto:diana.floresperegrina@gmail.com">
@@ -45,20 +50,22 @@ Applied Economist bridging rigorous research and policy impact
 :::
 :::
 
+
 ::: {.home-right}
 
-I am an applied economist specializing in the intersection of health, development, and public policy. I study how income, policy design, and institutional contexts shape human development and economic behavior, particularly among low-income populations.
+I am an applied economist specializing in development, health, and public policy. My research examines how economic resources and social policies shape family well-being, child development, and economic outcomes.
 
-My work uses rigorous causal inference methods to address real-world policy questions. I examine the impacts of large-scale social programs and behavioral responses to economic interventions, with the goal of informing policy design and implementation. I have extensive experience working with experimental and quasi-experimental data, as well as large administrative and survey datasets, and translating empirical findings into insights relevant for high-stakes policy decisions.
+I am currently a **Visiting Professor at CIDE** and a **Consulting Economist at Cardinal40**. Previously, I was a Postdoctoral Research Associate at Duke University. I received my Ph.D. in Economics from UCLA in 2024.
 
-I received my Ph.D. in Economics from the University of California, Los Angeles in 2024, and completed a postdoctoral fellowship at Duke University in 2026.
+My work combines rigorous empirical research with applied economic analysis to inform policy and decision-making.
 
-My work sits at the intersection of rigorous research and real-world policy impact.
+[**More about me →**](about.qmd)
 
 ---
 
-**Research Areas:** Health · Development · Policy Evaluation · Causal Inference
+**Research Areas:** Development Economics · Health Economics · Social Protection · Policy Evaluation
 
 :::
+
 
 :::

@@ -1,5 +1,35 @@
+
 ---
-title: "About"
+title: "About Me"
+toc: false
 ---
 
-About this site
+I am an applied economist with a Ph.D. in Economics from the University of California, Los Angeles (UCLA). My work lies at the intersection of development economics, health economics, and public policy, with a focus on understanding how economic resources and policy interventions affect individuals and families.
+
+## Current Positions
+
+I am a **Visiting Professor in the Department of Public Administration at the Centro de Investigación y Docencia Económicas (CIDE)** in Mexico City, where my research focuses on monetary transfer policies, family dynamics, health, and child development.
+
+I am also a **Consulting Economist at Cardinal40**, where I conduct applied economic research on firm behavior, market dynamics, and industry trends. My work involves econometric analysis, large-scale datasets, and translating quantitative findings into insights for economic decision-making.
+
+## Research Background
+
+Previously, I was a **Postdoctoral Research Associate at Duke University's Center for Child & Family Policy (2024–2026)**. My work focused on *Baby's First Years*, a randomized controlled trial evaluating the effects of unconditional cash transfers on families with low incomes. I conducted longitudinal analyses examining cumulative cash exposure, household expenditures, and parenting behaviors.
+
+I also collaborated with the National Research Center on Hispanic Children & Families on research related to social service delivery and policy implementation.
+
+My broader research includes evaluating conditional cash transfers in Mexico, studying maternal and child health, and examining the long-term effects of historical economic institutions on development.
+
+## Research Approach
+
+I use experimental and quasi-experimental methods, including difference-in-differences, longitudinal data analysis, and applied econometrics. My research draws on randomized trials, administrative records, and survey data to examine the effects of social programs and economic interventions.
+
+I am particularly interested in bridging academic research and applied policy analysis, making rigorous empirical evidence accessible and useful to researchers, policymakers, and other decision-makers.
+
+## Education
+
+- **Ph.D. in Economics**, University of California, Los Angeles (2024)
+- **M.A. in Economics**, Centro de Investigación y Docencia Económicas (2016)
+- **B.A. in Economics**, Universidad Autónoma de Aguascalientes (2013)
+
+For more details, see my [CV](CV_FloresPeregrina.pdf).

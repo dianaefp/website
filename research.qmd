@@ -7,12 +7,10 @@ toc: true
 # Research
 :::
 
-::: {.research-intro}
-My research examines how incentives, resources, and policy environments shape human behavior and economic outcomes, with a focus on generating evidence to inform effective social policy.
 
-::: {.award}
-🏆 **Best Article Award, Economic History of Developing Regions (2026)**
-:::
+::: {.research-intro}
+My research examines how economic resources, social policies, and institutional environments shape health, family well-being, and economic outcomes. I use experimental and quasi-experimental methods to evaluate public policies, with particular interests in cash transfers, child development, and social protection.
+
 :::
 
 
@@ -20,8 +18,8 @@ My research examines how incentives, resources, and policy environments shape hu
 Selected Research
 :::
 
+### Cumulative Effects of Early-Life Unconditional Cash Transfers on Household Expenditures: Evidence from Baby's First Years <span class="pub-tag">*(Forthcoming book chapter, Oxford University Press)*</span>
 
-### Cumulative Effects of Early-Life Unconditional Cash Transfers on Household Expenditures: Evidence from Baby’s First Years  <span class="pub-tag">*(Forthcoming Oxford University Press)*</span>  
 
 **Question:** How do sustained, predictable cash transfers from birth affect how families allocate resources over early childhood?
 
@@ -31,7 +29,8 @@ Selected Research
 
 ---
 
-### Growing Taller, Growing Heavier: The Effects of Progresa on Adolescent Health in Urban Mexico <span class="pub-tag">[*(Job Market Paper)*](https://dianaefp.github.io/dianafpweb/JMP_FloresPeregrina.pdf)</span>  
+### Growing Taller, Growing Heavier: The Effects of Progresa on Adolescent Health in Urban Mexico <span class="pub-tag">[*(Working Paper)*](JMP_FloresPeregrina.pdf)</span>
+  
 
 
 **Question:** Can conditional cash transfers improve adolescent health in urban settings?
@@ -42,7 +41,9 @@ Selected Research
 
 ---
 
-### The Impact of Unconditional Cash on Parenting Behaviors among 4-Year-Old Children from Families with Low Income in the U.S. <span class="pub-tag">[*(Working Paper)*](https://dianaefp.github.io/dianafpweb/BFYParentingBehaviors.pdf)</span> 
+
+### The Impact of Unconditional Cash on Parenting Behaviors among 4-Year-Old Children from Families with Low Income in the U.S. <span class="pub-tag">[*(Journal of Marriage and Family, 2026)*](https://doi.org/10.1111/jomf.70100)</span>
+
 
 **Question:** How does unconditional income affect parenting behaviors?
 
@@ -50,13 +51,12 @@ Selected Research
 
 **Why it matters:** Income support affects parental behavior—a key mechanism linking economic policy to child development.
 
-::: {.research-section}
-Other Publications
-:::
+---
+
 
 ### Colonial Agricultural Estates and Rural Development in Twentieth-Century Mexico  <span class="pub-tag">[*(Published)*](https://doi.org/10.1080/20780389.2023.2260953)</span>  
 
-🏆 **Awarded Best Biennial Article 2024–25, Economic History of Developing Regions**
+🏆 **Biennial Best Article Prize (2024–2025), Economic History of Developing Regions**
 
 **Question:** How do colonial land institutions shape long-term economic development and regional inequality?
 
@@ -64,7 +64,12 @@ Other Publications
 
 **Why it matters:** Historical economic structures can create lasting development advantages, offering a new channel linking inequality to modern outcomes.
 
----
+
+::: {.research-section}
+Other Publications
+:::
+
+
 
 ### Urban Poverty and Nutrition Challenges: A Global Systematic Literature Review <span class="pub-tag">[*(Published)*](https://doi.org/10.1186/s12939-020-01330-0)</span>  
 

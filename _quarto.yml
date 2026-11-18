@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - CV_FloresPeregrina.pdf
+    - JMP_FloresPeregrina.pdf
 
 website:
   title: "Diana Flores-Peregrina"
@@ -12,11 +15,13 @@ website:
     left:
       - href: /
         text: Home
+      - href: about.qmd
+        text: About Me
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: https://dianaefp.github.io/dianafpweb/CV_FloresPeregrina.pdf
+      - href: CV_FloresPeregrina.pdf
         text: CV
       - href: contact.qmd
         text: Contact

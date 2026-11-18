@@ -1,7 +1,9 @@
+
 ---
 page-layout: full
 toc: false
 ---
+
 ::: {.contact-title}
 
 # Contact
@@ -10,10 +12,16 @@ toc: false
 
 ::: {.contact-content}
 
-Based in the United States.
+**Based in Mexico City, Mexico.**
 
-I welcome inquiries regarding research collaborations, consulting opportunities, policy analysis, and speaking engagements.
+I welcome inquiries regarding research collaborations, economic consulting, policy evaluation, and speaking engagements.
 
-📧 **Email:** <a href="mailto:diana.floresperegrina@gmail.com">diana.floresperegrina@gmail.com</a>
+📧 **Email:** [diana.floresperegrina@gmail.com](mailto:diana.floresperegrina@gmail.com)
+
+**Professional Profiles:**
+
+- [LinkedIn](https://www.linkedin.com/in/dianaflores-peregrina/)
+- [GitHub](https://github.com/dianaefp)
+- [Google Scholar](https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en)
 
 :::
