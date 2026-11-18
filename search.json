@@ -37,9 +37,37 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I am an applied economist with a Ph.D. in Economics from the University of California, Los Angeles (UCLA). My work lies at the intersection of development economics, health economics, and public policy, with a focus on understanding how economic resources and policy interventions affect individuals and families."
+  },
+  {
+    "objectID": "about.html#current-positions",
+    "href": "about.html#current-positions",
+    "title": "About Me",
+    "section": "Current Positions",
+    "text": "Current Positions\nI am a Visiting Professor in the Department of Public Administration at the Centro de Investigación y Docencia Económicas (CIDE) in Mexico City, where my research focuses on monetary transfer policies, family dynamics, health, and child development.\nI am also a Consulting Economist at Cardinal40, where I conduct applied economic research on firm behavior, market dynamics, and industry trends. My work involves econometric analysis, large-scale datasets, and translating quantitative findings into insights for economic decision-making."
+  },
+  {
+    "objectID": "about.html#research-background",
+    "href": "about.html#research-background",
+    "title": "About Me",
+    "section": "Research Background",
+    "text": "Research Background\nPreviously, I was a Postdoctoral Research Associate at Duke University’s Center for Child & Family Policy (2024–2026). My work focused on Baby’s First Years, a randomized controlled trial evaluating the effects of unconditional cash transfers on families with low incomes. I conducted longitudinal analyses examining cumulative cash exposure, household expenditures, and parenting behaviors.\nI also collaborated with the National Research Center on Hispanic Children & Families on research related to social service delivery and policy implementation.\nMy broader research includes evaluating conditional cash transfers in Mexico, studying maternal and child health, and examining the long-term effects of historical economic institutions on development."
+  },
+  {
+    "objectID": "about.html#research-approach",
+    "href": "about.html#research-approach",
+    "title": "About Me",
+    "section": "Research Approach",
+    "text": "Research Approach\nI use experimental and quasi-experimental methods, including difference-in-differences, longitudinal data analysis, and applied econometrics. My research draws on randomized trials, administrative records, and survey data to examine the effects of social programs and economic interventions.\nI am particularly interested in bridging academic research and applied policy analysis, making rigorous empirical evidence accessible and useful to researchers, policymakers, and other decision-makers."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Economics, University of California, Los Angeles (2024)\nM.A. in Economics, Centro de Investigación y Docencia Económicas (2016)\nB.A. in Economics, Universidad Autónoma de Aguascalientes (2013)\n\nFor more details, see my CV."
   },
   {
     "objectID": "contact.html",
@@ -53,7 +81,7 @@
     "href": "index.html",
     "title": "Diana Flores‑Peregrina",
     "section": "",
-    "text": "Diana Flores‑Peregrina\n\nApplied Economist | Development, Health & Public Policy\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n  \n\n\n\n\nI am an applied economist specializing in development, health, and public policy. My research examines how economic resources and social policies shape family well-being, child development, and economic outcomes, particularly among low-income populations.\nI am currently a Visiting Professor in the Department of Public Administration at CIDE and a Consulting Economist at Cardinal40. Previously, I was a Postdoctoral Research Associate at Duke University’s Center for Child & Family Policy. I received my Ph.D. in Economics from the University of California, Los Angeles (UCLA) in 2024.\nMy work combines experimental and quasi-experimental methods, longitudinal data analysis, and applied econometrics to address research and policy questions. Beyond academic research, I apply quantitative methods to economic consulting, including the analysis of firm behavior, market dynamics, and industry trends.\nI am particularly interested in translating rigorous empirical evidence into insights that inform public policy and economic decision-making.\n\nResearch Areas: Applied Microeconomics · Development Economics · Health Economics · Social Protection · Policy Evaluation"
+    "text": "Diana Flores‑Peregrina\n\nApplied Economist | Development, Health & Public Policy\n\n\n\n\n\n\n\n  \n  \n  \n  \n  \n  \n\n\n\n\nI am an applied economist specializing in development, health, and public policy. My research examines how economic resources and social policies shape family well-being, child development, and economic outcomes.\nI am currently a Visiting Professor at CIDE and a Consulting Economist at Cardinal40. Previously, I was a Postdoctoral Research Associate at Duke University. I received my Ph.D. in Economics from UCLA in 2024.\nMy work combines rigorous empirical research with applied economic analysis to inform policy and decision-making.\nMore about me →\n\nResearch Areas: Development Economics · Health Economics · Social Protection · Policy Evaluation"
   },
   {
     "objectID": "research.html",

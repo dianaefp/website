@@ -9,7 +9,7 @@
 }
 
 .home-title h1 {
-  font-size: 4.5rem;
+  font-size: 3.5rem;  /* Previously 4.5rem */
   color: #004225;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -17,10 +17,10 @@
 
 .tagline {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.4rem;  /* Previously 2rem */
   color: #1f6f43;
   font-weight: 400;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .home-main {
@@ -44,8 +44,8 @@
 }
 
 .home-right {
-  font-size: 1.2rem;
-  line-height: 1.75;
+  font-size: 1.05rem; /* Previously 1.2rem */
+  line-height: 1.65;
   max-width: 900px;
 }
 
@@ -347,4 +347,24 @@
   .testimonial {
     flex: 0 0 85%;
   }
+}
+
+/* About Me page */
+
+body:has(.about-content) .quarto-title h1 {
+  font-size: 2.5rem;
+  color: #004225;
+}
+
+.about-content {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  max-width: 900px;
+}
+
+.about-content h2 {
+  font-size: 1.5rem;
+  color: #004225;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
 }
