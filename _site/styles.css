@@ -9,7 +9,7 @@
 }
 
 .home-title h1 {
-  font-size: 4.5rem;
+  font-size: 3.5rem;  /* Previously 4.5rem */
   color: #004225;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -17,15 +17,15 @@
 
 .tagline {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.4rem;  /* Previously 2rem */
   color: #1f6f43;
   font-weight: 400;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .home-main {
   display: grid;
-  grid-template-columns: 450px 900px;
+  grid-template-columns: minmax(250px, 1fr) minmax(0, 2fr);
   gap: 4rem;
   width: 100%;
   max-width: 1600px;
@@ -44,8 +44,8 @@
 }
 
 .home-right {
-  font-size: 1.2rem;
-  line-height: 1.75;
+  font-size: 1.05rem; /* Previously 1.2rem */
+  line-height: 1.65;
   max-width: 900px;
 }
 
@@ -73,6 +73,7 @@
   transform: translateY(-3px);
 }
 
+
 .social-icons i.email-icon {
   color: #D44638 !important;
 }
@@ -91,6 +92,10 @@
 
 .social-icons i.linkedin-icon {
   color: #0A66C2 !important;
+}
+
+.social-icons i.github-icon {
+  color: #24292f !important;
 }
 
 /* Mobile */
@@ -342,4 +347,24 @@
   .testimonial {
     flex: 0 0 85%;
   }
+}
+
+/* About Me page */
+
+body:has(.about-content) .quarto-title h1 {
+  font-size: 2.5rem;
+  color: #004225;
+}
+
+.about-content {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  max-width: 900px;
+}
+
+.about-content h2 {
+  font-size: 1.5rem;
+  color: #004225;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
 }

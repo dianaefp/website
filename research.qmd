@@ -1,3 +1,4 @@
+
 ---
 page-layout: full
 toc: true
@@ -7,19 +8,15 @@ toc: true
 # Research
 :::
 
-
 ::: {.research-intro}
 My research examines how economic resources, social policies, and institutional environments shape health, family well-being, and economic outcomes. I use experimental and quasi-experimental methods to evaluate public policies, with particular interests in cash transfers, child development, and social protection.
-
 :::
-
 
 ::: {.research-section}
 Selected Research
 :::
 
 ### Cumulative Effects of Early-Life Unconditional Cash Transfers on Household Expenditures: Evidence from Baby's First Years <span class="pub-tag">*(Forthcoming book chapter, Oxford University Press)*</span>
-
 
 **Question:** How do sustained, predictable cash transfers from birth affect how families allocate resources over early childhood?
 
@@ -30,8 +27,6 @@ Selected Research
 ---
 
 ### Growing Taller, Growing Heavier: The Effects of Progresa on Adolescent Health in Urban Mexico <span class="pub-tag">[*(Working Paper)*](JMP_FloresPeregrina.pdf)</span>
-  
-
 
 **Question:** Can conditional cash transfers improve adolescent health in urban settings?
 
@@ -41,9 +36,7 @@ Selected Research
 
 ---
 
-
 ### The Impact of Unconditional Cash on Parenting Behaviors among 4-Year-Old Children from Families with Low Income in the U.S. <span class="pub-tag">[*(Journal of Marriage and Family, 2026)*](https://doi.org/10.1111/jomf.70100)</span>
-
 
 **Question:** How does unconditional income affect parenting behaviors?
 
@@ -53,8 +46,7 @@ Selected Research
 
 ---
 
-
-### Colonial Agricultural Estates and Rural Development in Twentieth-Century Mexico  <span class="pub-tag">[*(Published)*](https://doi.org/10.1080/20780389.2023.2260953)</span>  
+### Colonial Agricultural Estates and Rural Development in Twentieth-Century Mexico <span class="pub-tag">[*(Economic History of Developing Regions, 2024)*](https://doi.org/10.1080/20780389.2023.2260953)</span>
 
 🏆 **Biennial Best Article Prize (2024–2025), Economic History of Developing Regions**
 
@@ -64,14 +56,11 @@ Selected Research
 
 **Why it matters:** Historical economic structures can create lasting development advantages, offering a new channel linking inequality to modern outcomes.
 
-
 ::: {.research-section}
 Other Publications
 :::
 
-
-
-### Urban Poverty and Nutrition Challenges: A Global Systematic Literature Review <span class="pub-tag">[*(Published)*](https://doi.org/10.1186/s12939-020-01330-0)</span>  
+### Urban Poverty and Nutrition Challenges: A Global Systematic Literature Review <span class="pub-tag">[*(International Journal for Equity in Health, 2021)*](https://doi.org/10.1186/s12939-020-01330-0)</span>
 
 **Question:** What limits access to healthy diets in urban settings?
 
@@ -81,7 +70,7 @@ Other Publications
 
 ---
 
-### A Longitudinal Study of Height Gaps among Mexican Children <span class="pub-tag">[*(Published)*](https://doi.org/10.1016/j.socscimed.2020.113388)</span>  
+### A Longitudinal Study of Height Gaps among Mexican Children <span class="pub-tag">[*(Social Science & Medicine, 2020)*](https://doi.org/10.1016/j.socscimed.2020.113388)</span>
 
 **Question:** How do socioeconomic disparities affect child growth?
 
@@ -91,7 +80,7 @@ Other Publications
 
 ---
 
-### Breastfeeding Training for Healthcare Providers in Mexico <span class="pub-tag">[*(Published)*](https://doi.org/10.1186/s13006-020-00297-6)</span>  
+### Breastfeeding Training for Healthcare Providers in Mexico <span class="pub-tag">[*(International Breastfeeding Journal, 2020)*](https://doi.org/10.1186/s13006-020-00297-6)</span>
 
 **Question:** Can semi-virtual training improve provider knowledge?
 
@@ -101,7 +90,7 @@ Other Publications
 
 ---
 
-### Costs of Maternity Leave to Support Breastfeeding: Brazil, Ghana, and Mexico <span class="pub-tag">[*(Published)*](http://dx.doi.org/10.2471/BLT.19.229898)</span>  
+### Costs of Maternity Leave to Support Breastfeeding: Brazil, Ghana, and Mexico <span class="pub-tag">[*(Bulletin of the World Health Organization, 2020)*](http://dx.doi.org/10.2471/BLT.19.229898)</span>
 
 **Question:** What are the costs of maternity leave policies?
 
@@ -111,7 +100,7 @@ Other Publications
 
 ---
 
-### Food Insecurity in Mexico: Context and Policy Implications <span class="pub-tag">[*(Published)*](https://doi.org/10.1017/S1368980019003082)</span>  
+### Food Insecurity in Mexico: Context and Policy Implications <span class="pub-tag">[*(Public Health Nutrition, 2020)*](https://doi.org/10.1017/S1368980019003082)</span>
 
 **Question:** How do contextual factors shape food insecurity?
 
@@ -121,7 +110,7 @@ Other Publications
 
 ---
 
-### Maternity Leave Cash Transfers for Informal Workers in Mexico <span class="pub-tag">[*(Published)*](https://doi.org/10.1177/0379572119836582)</span>  
+### Maternity Leave Cash Transfers for Informal Workers in Mexico <span class="pub-tag">[*(Food and Nutrition Bulletin, 2019)*](https://doi.org/10.1177/0379572119836582)</span>
 
 **Question:** What would it cost to support informal workers?
 
@@ -131,7 +120,7 @@ Other Publications
 
 ---
 
-### Productivity and Human Capital in Mexican States <span class="pub-tag">[*(Published)*](http://www.scielo.org.mx/pdf/ete/v81n324/2448-718X-ete-81-324-00909.pdf)</span>  
+### Productivity and Human Capital in Mexican States <span class="pub-tag">[*(El Trimestre Económico, 2014)*](http://www.scielo.org.mx/pdf/ete/v81n324/2448-718X-ete-81-324-00909.pdf)</span>
 
 **Question:** How do productivity and human capital interact?
 
@@ -141,7 +130,7 @@ Other Publications
 
 ---
 
-### Regional Competitiveness in the Mexican Bajío <span class="pub-tag">[*(Published)*](https://doi.org/10.36677/paradigmaeconomico.v11i2.13075)</span>  
+### Regional Competitiveness in the Mexican Bajío <span class="pub-tag">[*(Paradigma Económico, 2019)*](https://doi.org/10.36677/paradigmaeconomico.v11i2.13075)</span>
 
 **Question:** Is the region economically homogeneous?
 
