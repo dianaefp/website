@@ -133,14 +133,20 @@
   }
 }
 
-.home-right p a {
+/* Institutional links and contact links */
+.home-right a[href="https://www.cide.edu/"],
+.home-right a[href="https://www.cardinal40.com/"],
+.contact-content a {
   color: #004225;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
 }
 
-.home-right p a:hover {
+/* Hover effect */
+.home-right a[href="https://www.cide.edu/"]:hover,
+.home-right a[href="https://www.cardinal40.com/"]:hover,
+.contact-content a:hover {
   color: #006633;
+  text-decoration: underline;
 }
 
 /* =========================
@@ -288,15 +294,18 @@
   margin-bottom: 0.9rem;
 }
 
+
 .contact-content a {
   color: #004225;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
 }
 
 .contact-content a:hover {
   color: #006633;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
+
 
 .contact-note {
   font-size: 1.05rem;
