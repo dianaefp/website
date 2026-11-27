@@ -133,6 +133,16 @@
   }
 }
 
+.home-right p a {
+  color: #004225;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.home-right p a:hover {
+  color: #006633;
+}
+
 /* =========================
    RESEARCH PAGE
    ========================= */
@@ -229,40 +239,81 @@
 }
 
 
+/* Contact page */
+
 .contact-title h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #000000;
   font-weight: 700;
+  margin-bottom: 1.5rem;
 }
 
 .contact-content {
-  max-width: 800px;
-  font-size: 1.1rem;
-  line-height: 1.8;
+  max-width: 950px;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-.contact-title h1 {
-  font-size: 3rem;
-  color: #000000;
-  font-weight: 700;
-  margin-bottom: 1rem;
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
 }
 
-.contact-content {
-  max-width: 800px;
+.contact-affiliation {
+  font-size: 0.85rem;
+  color: #555555;
+  line-height: 1.5;
+}
+
+.contact-affiliation strong,
+.contact-details strong {
+  font-size: 0.95rem;
+  color: #222222;
+  font-weight: 600;
+}
+
+.contact-affiliation p:first-child strong {
   font-size: 1.1rem;
-  line-height: 1.8;
+}
+
+.contact-details {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.contact-content p {
+  margin-bottom: 0.9rem;
 }
 
 .contact-content a {
   color: #004225;
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .contact-content a:hover {
-  text-decoration: underline;
+  color: #006633;
 }
 
+.contact-note {
+  font-size: 1.05rem;
+  color: #333333;
+  line-height: 1.6;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+/* Mobile layout */
+
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
 
 .page-columns {
   max-width: 1600px !important;

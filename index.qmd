@@ -30,8 +30,8 @@ Applied Economist | Development, Health & Public Policy
 <i class="fab fa-github github-icon"></i>
 </a>
 
-<a href="mailto:diana.floresperegrina@gmail.com">
-<i class="fas fa-envelope email-icon"></i>
+<a href="mailto:diana.flores@cide.edu">
+  <i class="fas fa-envelope email-icon"></i>
 </a>
 
 <a href="https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en">
@@ -55,15 +55,16 @@ Applied Economist | Development, Health & Public Policy
 
 I am an applied economist specializing in development, health, and public policy. My research examines how economic resources and social policies shape family well-being, child development, and economic outcomes.
 
-I am currently a **Visiting Professor at CIDE** and a **Consulting Economist at Cardinal40**. Previously, I was a Postdoctoral Research Associate at Duke University. I received my Ph.D. in Economics from UCLA in 2024.
+I am currently a **Visiting Professor at [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/)** and a **Consulting Economist at [Cardinal40](https://www.cardinal40.com/)**. 
 
-My work combines rigorous empirical research with applied economic analysis to inform policy and decision-making.
+Previously, I was a Postdoctoral Research Associate at Duke University. I received my Ph.D. in Economics from UCLA in 2024. 
+
 
 [**More about me →**](about.qmd)
 
 ---
 
-**Research Areas:** Development Economics · Health Economics · Social Protection · Policy Evaluation
+**Research Areas:** Development Economics · Health Economics · Public Policy · Social Protection · Policy Evaluation
 
 :::
 

@@ -1,4 +1,3 @@
-
 ---
 page-layout: full
 toc: false
@@ -10,18 +9,45 @@ toc: false
 
 :::
 
-::: {.contact-content}
+:::: {.contact-content}
 
-**Based in Mexico City, Mexico.**
+::: {.contact-note}
 
 I welcome inquiries regarding research collaborations, economic consulting, policy evaluation, and speaking engagements.
 
-📧 **Email:** [diana.floresperegrina@gmail.com](mailto:diana.floresperegrina@gmail.com)
+:::
 
-**Professional Profiles:**
+::::: {.contact-grid}
 
-- [LinkedIn](https://www.linkedin.com/in/dianaflores-peregrina/)
-- [GitHub](https://github.com/dianaefp)
-- [Google Scholar](https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en)
+::: {.contact-affiliation}
+
+**Diana Flores Peregrina**\
+Visiting Professor  
+Division of Public Administration  
+Centro de Investigación y Docencia Económicas (CIDE)
+
+**Office Address**\
+Carretera México-Toluca 3655   
+Lomas de Santa Fe, Álvaro Obregón  
+01210 Mexico City, Mexico
 
 :::
+
+::: {.contact-details}
+
+**Email**\
+Institutional:  [diana.flores@cide.edu](mailto:diana.flores@cide.edu)  
+Personal:  [diana.floresperegrina@gmail.com](mailto:diana.floresperegrina@gmail.com)
+
+**Professional Profiles**\
+[LinkedIn](https://www.linkedin.com/in/dianaflores-peregrina/)  
+[GitHub](https://github.com/dianaefp)  
+[Google Scholar](https://scholar.google.com/citations?user=sa2tL-AAAAAJ&hl=en)
+
+:::
+
+:::::
+
+
+
+::::
